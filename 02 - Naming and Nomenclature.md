@@ -1,45 +1,32 @@
-IUPAC (International Union of Pure and Applied Chemistry) nomenclature is the standard "language" for chemistry. It allows chemists to deduce a structure from a name and vice versa.
-<hr>
-## The Three Parts of a Name
-1. **Prefix:** What and where are the substituents (branches)?
-2. **Parent:** How many carbons are in the longest continuous chain?
-3. **Suffix:** What is the primary functional group (e.g., -ane, -ene, -yne)?
+IUPAC Nomenclature provides a systematic way to name organic compounds. 
 
-## Step-by-Step Rules for Alkanes
-1. **Find the Longest Chain:** This is the parent chain. If two chains have the same length, choose the one with the most substituents.
-2. **Number the Chain:** Start from the end that gives the substituents the **lowest possible numbers** at the first point of difference.
-3. **Name Substituents:**
-   - $CH_3-$ : methyl
-   - $CH_3CH_2-$ : ethyl
-   - $CH_3CH_2CH_2-$ : propyl
-   - $(CH_3)_2CH-$ : isopropyl
-4. **Assemble the Name:** 
-   - List substituents alphabetically (ignore prefixes like di-, tri-, but *not* iso-).
-   - Use hyphens between numbers and words, and commas between numbers.
+## The Core Name Structure
+A name is built from three parts: **Prefix + Parent + Suffix**.
+1. **Parent:** Number of carbons in the longest chain.
+2. **Suffix:** Primary functional group (e.g., *-ane, -ene, -ol*).
+3. **Prefix:** Substituents and their locations.
 
-## Multiple Bonds Priority
-In [[04 - Alkenes and Alkynes|Alkenes and Alkynes]], the double or triple bond must be part of the parent chain and receives the **lowest possible number**, taking priority over alkyl substituents.
+## The 4 Golden Rules
+1. **Find the Longest Chain:** Must contain the primary functional group (double bonds, $-OH$, etc.).
+2. **Numbering:** Start from the end that gives the **principal group** the lowest number. If there is no principal group, use the end closest to the first branch (**First Point of Difference**).
+3. **Name Substituents:** List alkyl groups and halogens.
+   - *Note:* See [[03 - Alkanes#3. Identify and Name Substituents|Common Alkyl Names]] for isopropyl, tert-butyl, etc.
+4. **Alphabetize:** List substituents alphabetically (ignore *di-, tri-, sec-, tert-* but include *iso-*).
 
----
-### Worked Problem 2.1: Complex Alkane Naming
-**Question:** Name the following compound:
-$CH_3-CH(CH_3)-CH(C_2H_5)-CH_2-CH_3$
-
-**Solution:**
-1. **Identify the longest chain:** The longest chain has 5 carbons (Pentane). (Note: If you go straight across, it's 5. If you turn down at the ethyl group, it's also 5).
-2. **Number the chain:** 
-   - Starting from the left: Substituents at 2 (methyl) and 3 (ethyl). 
-   - Starting from the right: Substituents at 3 (ethyl) and 4 (methyl). 
-   - 2 and 3 are lower than 3 and 4.
-3. **Alphabetize:** Ethyl comes before Methyl.
-4. **Final Name:** **3-ethyl-2-methylpentane**.
+## Naming Priorities
+When multiple groups are present, use this priority list (Highest to Lowest):
+1. **Carboxylic Acid** (*-oic acid*)
+2. **Ester** (*-oate*)
+3. **Amide** (*-amide*)
+4. **Aldehyde** (*-al*)
+5. **Ketone** (*-one*)
+6. **Alcohol** (*-ol*)
+7. **Amine** (*-amine*)
+8. **Alkenes/Alkynes** (*-ene/-yne*)
+9. **Halogens/Alkyls** (Always prefixes)
 
 ---
-### Worked Problem 2.2: Cyclic Naming
-**Question:** Name a 6-carbon ring with two methyl groups on adjacent carbons.
-
-**Solution:**
-1. **Parent:** Cyclohexane.
-2. **Substituents:** Two methyl groups = dimethyl.
-3. **Numbering:** 1,2-dimethyl.
-4. **Final Name:** **1,2-dimethylcyclohexane**.
+### Quick Example: 3-ethyl-2-methylpentane
+1. **Parent:** 5 carbons (pentane).
+2. **Numbering:** Start from left to give substituents numbers 2 and 3 (rather than 3 and 4).
+3. **Alphabetize:** **E**thyl before **m**ethyl.

@@ -1,137 +1,46 @@
-Alkanes are the simplest organic compounds, consisting only of carbon and hydrogen with single bonds.
-<hr>
-## Physical Properties
-Alkanes are often called **paraffins** (Latin: *parum affinis* = "little affinity") due to their low chemical reactivity. This lack of reactivity is closely tied to their physical properties.
+Alkanes are saturated hydrocarbons ($C_nH_{2n+2}$) containing only single $\sigma$-bonds.
 
-### 1. Polarity and Solubility
-- **Non-polar Nature:** Alkanes consist entirely of C-C and C-H bonds. Because the electronegativity difference between Carbon (2.5) and Hydrogen (2.1) is small (0.4), the bonds are considered non-polar.
-- **Intermolecular Forces:** The only forces acting between alkane molecules are weak **London Dispersion Forces (LDF)**.
-- **Solubility:** "Like dissolves like." Alkanes are **insoluble in water** (a polar solvent) but soluble in non-polar organic solvents like benzene or ether.
-- **Density:** Alkanes are less dense than water ($< 1.0 \, g/mL$), meaning they will float on the surface (e.g., oil spills).
+## 1. Physical Properties
+- **Polarity:** Non-polar ($\Delta EN \approx 0.4$). Insoluble in water.
+- **Intermolecular Forces:** Weak London Dispersion Forces (LDF).
+- **Boiling Point:** 
+  - **Increases** with Molar Mass (longer chains).
+  - **Decreases** with Branching (less surface area for LDFs).
 
-### 2. Boiling Point (BP) and Melting Point (MP)
-The boiling point of alkanes is determined by the strength of the LDFs, which depend on two main factors:
+## 2. IUPAC Nomenclature
+Alkanes follow the base rules in [[02 - Naming and Nomenclature]], with these specifics:
 
-| Factor | Effect on BP | Scientific Reason |
-| :--- | :--- | :--- |
-| **Molar Mass & Chain Length** | **Increases** | As the number of carbons increases (higher molar mass and longer chains), the number of electrons increases, leading to stronger London Dispersion Forces. |
-| **Branching** | **Decreases** | Branching makes the molecule more spherical, reducing its surface area and preventing close packing, which weakens the LDFs. |
+### A. Branched Alkanes
+1. **Identify Parent:** Longest continuous carbon chain.
+2. **Numbering:** Start from the end closest to the first branch. 
+   - **First Point of Difference:** If branches are equidistant, compare the sets of locants. The correct set is the one with the lower number at the first point where they differ (e.g., `2,2,4` is better than `2,4,4`).
+3. **Substituents:** Identify common alkyl groups:
+| Group | Name | Group | Name |
+| :--- | :--- | :--- | :--- |
+| $-CH_3$ | Methyl | $-CH(CH_3)_2$ | Isopropyl |
+| $-C_2H_5$ | Ethyl | $-CH_2CH(CH_3)_2$ | Isobutyl |
+| $-C_3H_7$ | Propyl | $-CH(CH_3)C_2H_5$ | sec-Butyl |
+| $-C_4H_9$ | Butyl | $-C(CH_3)_3$ | tert-Butyl |
 
-- **Melting Point:** Also increases with molecular weight. However, MP is also affected by how well the molecules "pack" into a crystal lattice. Even-numbered alkanes pack more efficiently than odd-numbered ones, resulting in a slightly higher-than-expected MP for even-numbered chains.
+### B. Cycloalkanes
+- **Parent:** Add prefix **cyclo-** (e.g., *cyclopentane*).
+- **Numbering:** If 1 substituent, no number needed. If 2+, number to give the lowest possible set of locants, starting with the group first alphabetically.
 
----
-## Branched Alkanes and Structural [[05 - Isomerism |Isomerism]]
-When an alkane has four or more carbons, the atoms can be arranged in more than one way. These are called **structural isomers** (or constitutional isomers). They have the same molecular formula but different bonding sequences.
+## 3. Key Reactions
+Alkanes are chemically stable (**paraffins**) due to strong $\sigma$-bonds and lack of polarity.
 
-- **Normal Alkanes ($n$-alkanes):** Carbons are in a single, continuous chain.
-- **Branched Alkanes:** One or more carbons are attached as "branches" to the main chain.
+### A. Combustion (Exothermic)
+$$C_nH_{2n+2} + O_2 \rightarrow CO_2 + H_2O + \text{Energy}$$
 
-### 1. IUPAC Rules for Naming Branched Alkanes
-To ensure every molecule has a unique name, we use the **IUPAC** (International Union of Pure and Applied Chemistry) system:
+### B. Free Radical Substitution (Halogenation)
+Requires **UV Light** ($h\nu$) or high heat.
+$$CH_4 + Cl_2 \xrightarrow{h\nu} CH_3Cl + HCl$$
+- **Steps:** Initiation, Propagation, Termination.
 
-1.  **Find the Longest Chain:** Identify the longest continuous carbon chain. This is the "parent" name (e.g., 6 carbons = hexane). If two chains have the same length, choose the one with more branches.
-2.  **Number the Parent Chain:** Number the carbons starting from the end closest to a branch. 
-    - **Note: The First Point of Difference Rule:** If there are multiple branches, compare the sets of locants (the numbers) from both ends. The correct numbering is the one that has the lower number at the **first point of difference**. 
-    - *Example:* If numbering from one end gives `2,4,4` and the other gives `2,2,4`, the `2,2,4` set is preferred because at the second number, `2` is lower than `4`.
-3.  **Identify and Name Substituents:**
- Branches are called **alkyl groups**. While IUPAC allows for systematic naming of branches, several **common names** are standard in organic chemistry and should be memorized:
+### C. Dehydrogenation
+Removal of $H_2$ to form an alkene (requires catalyst and heat).
+$$CH_3CH_3 \rightarrow CH_2=CH_2 + H_2$$
 
-| Formula | Common Name | Structural Description |
-| :--- | :--- | :--- |
-| $CH_3-$ | **Methyl** | 1-carbon group. |
-| $CH_3CH_2-$ | **Ethyl** | 2-carbon group. |
-| $CH_3CH_2CH_2-$ | **Propyl** ($n$-propyl) | 3-carbon straight chain. |
-| $(CH_3)_2CH-$ | **Isopropyl** | 3-carbon chain attached at the **middle** carbon. |
-| $CH_3(CH_2)_3-$ | **Butyl** ($n$-butyl) | 4-carbon straight chain. |
-| $CH_3CH_2CH(CH_3)-$ | **sec-Butyl** | 4-carbon chain attached at a **secondary** carbon. |
-| $(CH_3)_2CHCH_2-$ | **Isobutyl** | 4-carbon branched chain attached at a primary carbon. |
-| $(CH_3)_3C-$ | **tert-Butyl** | 4-carbon group attached at a **tertiary** carbon. |
-| $(CH_3)_3CCH_2-$ | **Neopentyl** | 5-carbon group with a quaternary center. |
-
-4.  **Assemble the Name:** 
-    - List substituents in **alphabetical order**. 
-    - **Crucial Rule:** Ignore prefixes like *di-, tri-, sec-,* and *tert-* when alphabetizing. However, **iso-** and **neo-** are considered part of the name and *are* used for alphabetizing.
-    - *Example:* **e**thyl comes before **i**sopropyl, which comes before **m**ethyl.
-    - Use prefixes (*di-, tri-, tetra-*) if the same substituent appears multiple times.
-    - Use hyphens to separate numbers from words and commas to separate numbers from each other.
-
-
-**Example:** *2,3-dimethylpentane* (A 5-carbon chain with methyl groups on carbons 2 and 3).
-
-### 2. Differences Between Isomers
-Even though isomers like $n$-pentane and neopentane (2,2-dimethylpropane) have the same formula ($C_5H_{12}$), they differ in:
-- **Surface Area:** Branched isomers are more compact (spherical).
-- **Intermolecular Forces:** More branching = less surface area = weaker London Dispersion Forces = **Lower Boiling Point**.
-- **Chemical Reactivity:** While all alkanes are relatively inert, the type of carbon (primary, secondary, or tertiary) can affect the stability of intermediates in reactions like halogenation.
-
----
-## Chemical Properties and Reactivity
-Alkanes are generally considered "inert" or unreactive under standard conditions. Their chemical behavior is primarily governed by their electronic structure and bond strengths.
-
-### 1. Influence of Electronegativity
-Reactivity in organic chemistry often stems from polar bonds.
-- **Carbon (C):** 2.5
-- **Hydrogen (H):** 2.1
-- **Result:** The electronegativity difference ($\Delta EN = 0.4$) is so small that C-H bonds are essentially non-polar. Without a significant dipole, there is no electron-poor or electron-rich site for a **nucleophile** or **electrophile** to attack.
-
-### 2. Bond Stability and Saturation
-- **Strong Sigma ($\sigma$) Bonds:** Alkanes consist entirely of $\sigma$-bonds (C-C and C-H), which are the strongest covalent bonds. Breaking these requires significant energy (heat or UV light).
-- **Saturation:** Because every carbon is already bonded to the maximum number of atoms (4), alkanes cannot undergo **addition reactions**. They are limited to **substitution** or **combustion**.
-
-## Cycloalkanes ($C_nH_{2n}$)
-Ring structures introduce "Ring Strain," which consists of:
-1. **Angle Strain:** Deviation from the ideal $109.5^\circ$ tetrahedral angle.
-2. **Torsional Strain:** Resulting from eclipsing interactions between C-H bonds.
-
-### 1. Naming Cycloalkanes
-Naming cyclic alkanes follows similar rules to straight-chain alkanes but with a few key differences:
-- **The Parent:** Use the prefix **cyclo-** before the alkane name (e.g., *cyclohexane*).
-- **Numbering:** 
-    - If there is only **one** substituent, no number is needed (e.g., *methylcyclopentane*).
-    - If there are **two or more** substituents, number the ring starting at the substituent that comes first alphabetically, and move in the direction that gives the next substituent the lowest possible number.
-- **Priority:** If the alkyl chain attached to the ring has more carbons than the ring itself, the ring becomes a substituent (a **cycloalkyl** group) on the chain.
-
-**Cyclohexane ($C_6H_{12}$):**
-To minimize strain, cyclohexane does not exist as a flat hexagon. It folds into the **Chair Conformation**, where all bond angles are $109.5^\circ$ and all H atoms are staggered (no torsional strain).
-
-## Key Reactions
-Alkanes are generally unreactive, but they undergo several high-energy reactions:
-
-### 1. Combustion
-$$C_nH_{2n+2} + \left(\frac{3n+1}{2}\right)O_2 \rightarrow nCO_2 + (n+1)H_2O$$
-- Complete combustion produces carbon dioxide and water. Incomplete combustion (limited $O_2$) can produce poisonous carbon monoxide ($CO$) or soot ($C$).
-
-### 2. Free Radical Substitution (Halogenation)
-This reaction involves the replacement of one or more hydrogen atoms with halogen atoms ($Cl, Br$).
-- **Requirement:** UV light ($h\nu$) or high heat (approx. $250^\circ C - 400^\circ C$).
-- **Mechanism:** It occurs via a **Free Radical Mechanism** (Initiation, Propagation, Termination).
-- **Multiple Substitutions:** The reaction often produces a mixture of products ($CH_3Cl, CH_2Cl_2, CHCl_3, CCl_4$) as the halogenated products can react further.
-- **Selectivity:** Bromination is much more selective than chlorination, preferentially replacing hydrogens on tertiary carbons.
-
-### 3. Dehydrogenation
-Dehydrogenation is the removal of hydrogen atoms from an alkane to form an alkene (unsaturated hydrocarbon).
-- **Requirement:** High temperatures ($500^\circ C +$) and a catalyst (like $Cr_2O_3$ or $Al_2O_3$).
-- **Significance:** This is a vital industrial process for producing raw materials for plastics (e.g., converting ethane to ethylene).
-$$CH_3-CH_3 \xrightarrow{catalyst, \Delta} CH_2=CH_2 + H_2$$
-
----
-### Worked Problem 3.1: Combustion Stoichiometry
-**Question:** Write the balanced equation for the complete combustion of Octane ($C_8H_{18}$).
-
-**Solution:**
-1. Skeleton: $C_8H_{18} + O_2 \rightarrow CO_2 + H_2O$
-2. Balance C: $C_8H_{18} + O_2 \rightarrow 8CO_2 + H_2O$
-3. Balance H: $C_8H_{18} + O_2 \rightarrow 8CO_2 + 9H_2O$
-4. Balance O: $8(2) + 9(1) = 25$ oxygen atoms on the right.
-5. Final Equation: **$C_8H_{18} + 12.5 O_2 \rightarrow 8CO_2 + 9H_2O$** (or $2C_8H_{18} + 25O_2 \rightarrow 16CO_2 + 18H_2O$)
-
----
-### Worked Problem 3.2: Cycloalkane Isomers
-**Question:** Draw and name all possible structural isomers for $C_5H_{10}$ that are rings.
-
-**Solution:**
-1. **Cyclopentane** (5-membered ring)
-2. **Methylcyclobutane** (4-membered ring with a methyl branch)
-3. **1,1-dimethylcyclopropane** (3-membered ring with two methyls on one C)
-4. **1,2-dimethylcyclopropane** (3-membered ring with methyls on adjacent Cs - this also has cis/trans isomers!)
-5. **Ethylcyclopropane** (3-membered ring with an ethyl branch)
+## 4. Cycloalkanes ($C_nH_{2n}$)
+- **Naming:** Prefix *cyclo-* (e.g., cyclohexane).
+- **Stability:** Cyclohexane is the most stable due to its **Chair Conformation** (minimizes angle and torsional strain).

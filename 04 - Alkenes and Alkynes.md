@@ -37,16 +37,38 @@ Because $C=C$ double bonds cannot rotate, the spatial arrangement of atoms is fi
 - *Naming:* The prefix *cis-* or *trans-* is added to the beginning of the name (e.g., *trans-2-butene*).
 
 ---
-## Addition Reactions
-The pi bond is broken, and two new sigma bonds are formed.
-1. **Hydrogenation:** $CH_2=CH_2 + H_2 \xrightarrow{Pt} CH_3-CH_3$
-2. **Halogenation:** $CH_2=CH_2 + Br_2 \rightarrow CH_2Br-CH_2Br$
-   - *Note:* This reaction is used to test for unsaturation; the reddish-brown color of $Br_2$ disappears upon reaction.
-3. **Hydrohalogenation:** $CH_2=CH_2 + HCl \rightarrow CH_3-CH_2Cl$
-4. **Hydration:** $CH_2=CH_2 + H_2O \xrightarrow{H^+} CH_3-CH_2OH$ (Ethanol)
+## Chemical Properties and Reactions
+The reactivity of alkenes and alkynes is centered on the **pi ($\pi$) bond**. Pi bonds are weaker than sigma bonds and are located above and below the plane of the nuclei, making the electrons highly accessible to **electrophiles** (electron-seeking reagents).
+
+### 1. Addition Reactions
+In an addition reaction, the pi bond is broken and replaced by two new, stronger sigma bonds.
+
+| Reaction | Reagent | Conditions | Product |
+| :--- | :--- | :--- | :--- |
+| **Hydrogenation** | $H_2$ | $Pt, Pd, \text{ or } Ni$ catalyst | Alkane |
+| **Halogenation** | $X_2$ ($Cl_2, Br_2$) | None | Vicinal dihalide |
+| **Hydrohalogenation** | $HX$ ($HCl, HBr$) | None | Alkyl halide |
+| **Hydration** | $H_2O$ | Strong acid ($H_2SO_4$) | Alcohol |
+
+#### Markovnikov's Rule (Regioselectivity)
+When adding an unsymmetrical reagent (like $H-Cl$ or $H-OH$) to an unsymmetrical alkene, the **hydrogen atom** attaches to the carbon that already has the **most hydrogen atoms**.
+- *Reasoning:* This proceeds via the most stable carbocation intermediate (Tertiary > Secondary > Primary).
+
+### 2. Polymerization (Alkenes)
+Alkenes can undergo **addition polymerization**, where thousands of alkene monomers join together to form a long-chain polymer.
+- *Example:* Ethylene monomers $\rightarrow$ Polyethylene.
+- $$n(CH_2=CH_2) \rightarrow -[CH_2-CH_2]_n-$$
+
+### 3. Alkyne-Specific Reactions
+Alkynes can undergo addition twice because they have two pi bonds.
+- **Complete Hydrogenation:** Alkyne + $2H_2 \xrightarrow{Pt}$ Alkane.
+- **Partial Hydrogenation (Stereoselective):**
+	- Using **Lindlar's Catalyst**: Produces a **Cis-alkene**.
+	- Using **Sodium in Liquid Ammonia ($Na/NH_3$L)**: Produces a **Trans-alkene**.
 
 ---
-### Worked Problem 4.1: Predicting Products
+## Worked Problem 4.1: Predicting Products
+
 **Question:** Predict the product of the reaction between Propene ($CH_3-CH=CH_2$) and Hydrogen Bromide ($HBr$).
 
 **Solution:**
@@ -65,5 +87,3 @@ The pi bond is broken, and two new sigma bonds are formed.
 2. Each pi bond requires 1 mole of $H_2$ to be broken.
 3. Therefore, **2 moles of $H_2$** are required to convert Propyne to Propane.
    $$CH_3C\equiv CH + 2H_2 \rightarrow CH_3CH_2CH_3$$
-
-**See Also:** [[02 - Naming and Nomenclature]] for numbering rules.

@@ -55,5 +55,4 @@ c) 1,1-dichloroethene
 3. Since all four groups are different, **C2 is a chiral center**.
 
 ---
-**Back to Basics:** [[01 - Basics and Definitions]]
 **Naming Help:** [[02 - Naming and Nomenclature]]

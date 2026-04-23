@@ -20,6 +20,36 @@ The boiling point of alkanes is determined by the strength of the LDFs, which de
 - **Melting Point:** Also increases with molecular weight. However, MP is also affected by how well the molecules "pack" into a crystal lattice. Even-numbered alkanes pack more efficiently than odd-numbered ones, resulting in a slightly higher-than-expected MP for even-numbered chains.
 
 ---
+## Branched Alkanes and Structural [[05 - Isomerism |Isomerism]]
+When an alkane has four or more carbons, the atoms can be arranged in more than one way. These are called **structural isomers** (or constitutional isomers). They have the same molecular formula but different bonding sequences.
+
+- **Normal Alkanes ($n$-alkanes):** Carbons are in a single, continuous chain.
+- **Branched Alkanes:** One or more carbons are attached as "branches" to the main chain.
+
+### 1. IUPAC Rules for Naming Branched Alkanes
+To ensure every molecule has a unique name, we use the **IUPAC** (International Union of Pure and Applied Chemistry) system:
+
+1.  **Find the Longest Chain:** Identify the longest continuous carbon chain. This is the "parent" name (e.g., 6 carbons = hexane). If two chains have the same length, choose the one with more branches.
+2.  **Number the Parent Chain:** Number the carbons starting from the end closest to a branch. The goal is to give the substituents the lowest possible numbers.
+3.  **Identify and Name Substituents:** Branches are called **alkyl groups**. They are named by replacing the *-ane* ending of the alkane with **-yl**.
+    - $CH_3-$ : Methyl
+    - $CH_3CH_2-$ : Ethyl
+    - $CH_3CH_2CH_2-$ : Propyl
+    - $(CH_3)_2CH-$ : Isopropyl
+4.  **Assemble the Name:** 
+    - List substituents in **alphabetical order** (ignore prefixes like *di-, tri-,* or *sec-*; but *iso-* is included).
+    - Use prefixes (*di-, tri-, tetra-*) if the same substituent appears multiple times.
+    - Use hyphens to separate numbers from words and commas to separate numbers from each other.
+
+**Example:** *2,3-dimethylpentane* (A 5-carbon chain with methyl groups on carbons 2 and 3).
+
+### 2. Differences Between Isomers
+Even though isomers like $n$-pentane and neopentane (2,2-dimethylpropane) have the same formula ($C_5H_{12}$), they differ in:
+- **Surface Area:** Branched isomers are more compact (spherical).
+- **Intermolecular Forces:** More branching = less surface area = weaker London Dispersion Forces = **Lower Boiling Point**.
+- **Chemical Reactivity:** While all alkanes are relatively inert, the type of carbon (primary, secondary, or tertiary) can affect the stability of intermediates in reactions like halogenation.
+
+---
 ## Chemical Properties and Reactivity
 Alkanes are generally considered "inert" or unreactive under standard conditions. Their chemical behavior is primarily governed by their electronic structure and bond strengths.
 

@@ -30,8 +30,11 @@ When an alkane has four or more carbons, the atoms can be arranged in more than 
 To ensure every molecule has a unique name, we use the **IUPAC** (International Union of Pure and Applied Chemistry) system:
 
 1.  **Find the Longest Chain:** Identify the longest continuous carbon chain. This is the "parent" name (e.g., 6 carbons = hexane). If two chains have the same length, choose the one with more branches.
-2.  **Number the Parent Chain:** Number the carbons starting from the end closest to a branch. The goal is to give the substituents the lowest possible numbers.
-3.  **Identify and Name Substituents:** Branches are called **alkyl groups**. They are named by replacing the *-ane* ending of the alkane with **-yl**.
+2.  **Number the Parent Chain:** Number the carbons starting from the end closest to a branch. 
+    - **Note: The First Point of Difference Rule:** If there are multiple branches, compare the sets of locants (the numbers) from both ends. The correct numbering is the one that has the lower number at the **first point of difference**. 
+    - *Example:* If numbering from one end gives `2,4,4` and the other gives `2,2,4`, the `2,2,4` set is preferred because at the second number, `2` is lower than `4`.
+3.  **Identify and Name Substituents:**
+ Branches are called **alkyl groups**. They are named by replacing the *-ane* ending of the alkane with **-yl**.
     - $CH_3-$ : Methyl
     - $CH_3CH_2-$ : Ethyl
     - $CH_3CH_2CH_2-$ : Propyl

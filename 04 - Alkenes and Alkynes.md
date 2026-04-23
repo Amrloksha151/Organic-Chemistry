@@ -38,6 +38,4 @@ The pi bond is broken, and two new sigma bonds are formed.
 3. Therefore, **2 moles of $H_2$** are required to convert Propyne to Propane.
    $$CH_3C\equiv CH + 2H_2 \rightarrow CH_3CH_2CH_3$$
 
----
-**Next:** Understand the complexity of [[05 - Isomerism]].
 **See Also:** [[02 - Naming and Nomenclature]] for numbering rules.

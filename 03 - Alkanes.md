@@ -34,15 +34,27 @@ To ensure every molecule has a unique name, we use the **IUPAC** (International 
     - **Note: The First Point of Difference Rule:** If there are multiple branches, compare the sets of locants (the numbers) from both ends. The correct numbering is the one that has the lower number at the **first point of difference**. 
     - *Example:* If numbering from one end gives `2,4,4` and the other gives `2,2,4`, the `2,2,4` set is preferred because at the second number, `2` is lower than `4`.
 3.  **Identify and Name Substituents:**
- Branches are called **alkyl groups**. They are named by replacing the *-ane* ending of the alkane with **-yl**.
-    - $CH_3-$ : Methyl
-    - $CH_3CH_2-$ : Ethyl
-    - $CH_3CH_2CH_2-$ : Propyl
-    - $(CH_3)_2CH-$ : Isopropyl
+ Branches are called **alkyl groups**. While IUPAC allows for systematic naming of branches, several **common names** are standard in organic chemistry and should be memorized:
+
+| Formula | Common Name | Structural Description |
+| :--- | :--- | :--- |
+| $CH_3-$ | **Methyl** | 1-carbon group. |
+| $CH_3CH_2-$ | **Ethyl** | 2-carbon group. |
+| $CH_3CH_2CH_2-$ | **Propyl** ($n$-propyl) | 3-carbon straight chain. |
+| $(CH_3)_2CH-$ | **Isopropyl** | 3-carbon chain attached at the **middle** carbon. |
+| $CH_3(CH_2)_3-$ | **Butyl** ($n$-butyl) | 4-carbon straight chain. |
+| $CH_3CH_2CH(CH_3)-$ | **sec-Butyl** | 4-carbon chain attached at a **secondary** carbon. |
+| $(CH_3)_2CHCH_2-$ | **Isobutyl** | 4-carbon branched chain attached at a primary carbon. |
+| $(CH_3)_3C-$ | **tert-Butyl** | 4-carbon group attached at a **tertiary** carbon. |
+| $(CH_3)_3CCH_2-$ | **Neopentyl** | 5-carbon group with a quaternary center. |
+
 4.  **Assemble the Name:** 
-    - List substituents in **alphabetical order** (ignore prefixes like *di-, tri-,* or *sec-*; but *iso-* is included).
+    - List substituents in **alphabetical order**. 
+    - **Crucial Rule:** Ignore prefixes like *di-, tri-, sec-,* and *tert-* when alphabetizing. However, **iso-** and **neo-** are considered part of the name and *are* used for alphabetizing.
+    - *Example:* **e**thyl comes before **i**sopropyl, which comes before **m**ethyl.
     - Use prefixes (*di-, tri-, tetra-*) if the same substituent appears multiple times.
     - Use hyphens to separate numbers from words and commas to separate numbers from each other.
+
 
 **Example:** *2,3-dimethylpentane* (A 5-carbon chain with methyl groups on carbons 2 and 3).
 
@@ -101,7 +113,3 @@ To minimize strain, cyclohexane does not exist as a flat hexagon. It folds into 
 3. **1,1-dimethylcyclopropane** (3-membered ring with two methyls on one C)
 4. **1,2-dimethylcyclopropane** (3-membered ring with methyls on adjacent Cs - this also has cis/trans isomers!)
 5. **Ethylcyclopropane** (3-membered ring with an ethyl branch)
-
----
-**Next:** Explore unsaturated bonds in [[04 - Alkenes and Alkynes]].
-**See Also:** Detailed [[05 - Isomerism]] for alkanes.

@@ -36,6 +36,3 @@ The overlap of these orbitals creates chemical bonds:
 - **Pi ($\pi$) bonds:** Side-on overlap of $p$ orbitals.
 
 Understanding the "shape" of these orbitals helps us predict the 3D structure of molecules, which is covered in [[03 - VSEPR Theory and Molecular Geometry]].
-
----
-**Next Step:** Learn how to represent these electrons in [[02 - Lewis Structures and Chemical Bonding]].

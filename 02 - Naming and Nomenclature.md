@@ -43,6 +43,3 @@ $CH_3-CH(CH_3)-CH(C_2H_5)-CH_2-CH_3$
 2. **Substituents:** Two methyl groups = dimethyl.
 3. **Numbering:** 1,2-dimethyl.
 4. **Final Name:** **1,2-dimethylcyclohexane**.
-
----
-**Next:** Deep dive into [[03 - Alkanes]].

@@ -35,6 +35,3 @@ $$\text{Formal Charge} = (\text{Valence Electrons}) - (\text{Non-bonding Electro
 ## 4. Resonance
 Sometimes, a single Lewis structure cannot accurately describe a molecule (e.g., Benzene or Carbonate $CO_3^{2-}$). In these cases, we draw multiple **resonance structures** connected by double-headed arrows ($\leftrightarrow$). The actual molecule is a "hybrid" of these structures.
 - Resonance is a key concept in [[05 - Isomerism]] and stability in organic reactions.
-
----
-**Next Step:** Use these 2D drawings to predict 3D shapes in [[03 - VSEPR Theory and Molecular Geometry]].

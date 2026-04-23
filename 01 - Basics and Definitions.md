@@ -43,6 +43,3 @@ Hydrocarbons are divided based on their bonding:
 1. **C1 ($CH_2$):** Attached to two H atoms and one double bond. It has 3 bonding regions (2 single, 1 double). Therefore, it is **$sp^2$ hybridized**.
 2. **C2 ($CH$):** Attached to one H, one single bond, and one double bond. It has 3 bonding regions. Therefore, it is **$sp^2$ hybridized**.
 3. **C3 ($CH_3$):** Attached to three H atoms and one single bond. It has 4 bonding regions. Therefore, it is **$sp^3$ hybridized**.
-
----
-**Next:** Learn how to name these structures in [[02 - Naming and Nomenclature]].

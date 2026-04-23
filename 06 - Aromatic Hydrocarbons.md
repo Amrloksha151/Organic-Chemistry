@@ -35,15 +35,44 @@ When two groups are present, their relative positions are indicated by numbers (
 - **meta (m-):** 1,3-position (separated by one carbon).
 - **para (p-):** 1,4-position (opposite).
 
-## 4. Chemical Reactivity
-Unlike alkenes, benzene **does not undergo addition reactions** under normal conditions because adding a reagent would break the stable aromatic ring. Instead, benzene undergoes **Electrophilic Aromatic Substitution (EAS)**, where a hydrogen is replaced by an electrophile.
+## 4. Electrophilic Aromatic Substitution (EAS)
+Unlike alkanes (which use free radicals) or alkenes (which use addition), aromatic rings react via **substitution** to preserve their stable resonance system. The general mechanism involves two main steps:
 
-| Reaction | Reagents | Group Introduced |
-| :--- | :--- | :--- |
-| **Halogenation** | $X_2, FeX_3$ | $-Cl$ or $-Br$ |
-| **Nitration** | $HNO_3, H_2SO_4$ | $-NO_2$ |
-| **Sulfonation** | $SO_3, H_2SO_4$ | $-SO_3H$ |
-| **Friedel-Crafts Alkylation** | $R-Cl, AlCl_3$ | $-R$ (Alkyl group) |
+### The General Mechanism
+1.  **Generation of the Electrophile ($E^+$):** A strong electrophile is created, often using a Lewis acid catalyst.
+2.  **Electrophilic Attack:** The benzene pi system attacks the electrophile, forming a resonance-stabilized carbocation called the **sigma complex** (or arenium ion). This step breaks the aromaticity temporarily.
+3.  **Deprotonation:** A base removes a proton from the carbon that was attacked, restoring the aromatic ring and its stability.
+
+### Key Substitution Reactions
+
+#### A. Halogenation (Chlorination or Bromination)
+Benzene reacts with $Cl_2$ or $Br_2$ only in the presence of a Lewis acid catalyst like $FeCl_3$ or $FeBr_3$.
+- **Electrophile:** $Cl^+$ or $Br^+$ (complexed with the catalyst).
+- **Equation:** $C_6H_6 + Cl_2 \xrightarrow{FeCl_3} C_6H_5Cl + HCl$
+
+#### B. Nitration
+Benzene reacts with a mixture of concentrated nitric acid and sulfuric acid.
+- **Electrophile:** The **nitronium ion ($NO_2^+$)**.
+- **Equation:** $C_6H_6 + HNO_3 \xrightarrow{H_2SO_4} C_6H_5NO_2 + H_2O$
+- **Product:** Nitrobenzene.
+
+#### C. Sulfonation
+Benzene reacts with "fuming" sulfuric acid (a mixture of $H_2SO_4$ and $SO_3$).
+- **Electrophile:** Sulfur trioxide ($SO_3$).
+- **Equation:** $C_6H_6 + SO_3 \xrightarrow{H_2SO_4} C_6H_5SO_3H$
+- **Product:** Benzenesulfonic acid.
+
+#### D. Friedel-Crafts Alkylation
+The replacement of a hydrogen atom with an alkyl group ($R$).
+- **Reagent:** An alkyl halide ($R-Cl$) and $AlCl_3$ catalyst.
+- **Electrophile:** A carbocation ($R^+$).
+- **Limitation:** The carbocation can undergo rearrangement to form a more stable isomer.
+- **Equation:** $C_6H_6 + CH_3Cl \xrightarrow{AlCl_3} C_6H_5CH_3 + HCl$ (Toluene)
+
+## 5. Substituent Effects (Directing Groups)
+If a group is already present on the ring, it affects where the *next* substituent will go:
+- **Ortho, Para-Directors:** Generally electron-donating groups (e.g., $-OH, -NH_2, -CH_3$) and halogens. They direct the incoming electrophile to the 2 and 4 positions.
+- **Meta-Directors:** Generally electron-withdrawing groups (e.g., $-NO_2, -COOH, -SO_3H$). They direct the incoming electrophile to the 3 position.
 
 ---
 **See Also:** [[02 - Naming and Nomenclature]] for general IUPAC rules.

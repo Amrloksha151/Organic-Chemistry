@@ -11,10 +11,14 @@
             "id": "9881ef0a8a001268",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06 - Aromatic Hydrocarbons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 - Aromatic Hydrocarbons"
             }
           }
         ]

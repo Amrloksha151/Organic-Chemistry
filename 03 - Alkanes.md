@@ -83,14 +83,36 @@ Ring structures introduce "Ring Strain," which consists of:
 1. **Angle Strain:** Deviation from the ideal $109.5^\circ$ tetrahedral angle.
 2. **Torsional Strain:** Resulting from eclipsing interactions between C-H bonds.
 
+### 1. Naming Cycloalkanes
+Naming cyclic alkanes follows similar rules to straight-chain alkanes but with a few key differences:
+- **The Parent:** Use the prefix **cyclo-** before the alkane name (e.g., *cyclohexane*).
+- **Numbering:** 
+    - If there is only **one** substituent, no number is needed (e.g., *methylcyclopentane*).
+    - If there are **two or more** substituents, number the ring starting at the substituent that comes first alphabetically, and move in the direction that gives the next substituent the lowest possible number.
+- **Priority:** If the alkyl chain attached to the ring has more carbons than the ring itself, the ring becomes a substituent (a **cycloalkyl** group) on the chain.
+
 **Cyclohexane ($C_6H_{12}$):**
 To minimize strain, cyclohexane does not exist as a flat hexagon. It folds into the **Chair Conformation**, where all bond angles are $109.5^\circ$ and all H atoms are staggered (no torsional strain).
 
 ## Key Reactions
-1. **Combustion:** 
-   $$C_nH_{2n+2} + \left(\frac{3n+1}{2}\right)O_2 \rightarrow nCO_2 + (n+1)H_2O$$
-2. **Free Radical Substitution (Halogenation):** Requires UV light or heat.
-   $$CH_4 + Cl_2 \xrightarrow{hv} CH_3Cl + HCl$$
+Alkanes are generally unreactive, but they undergo several high-energy reactions:
+
+### 1. Combustion
+$$C_nH_{2n+2} + \left(\frac{3n+1}{2}\right)O_2 \rightarrow nCO_2 + (n+1)H_2O$$
+- Complete combustion produces carbon dioxide and water. Incomplete combustion (limited $O_2$) can produce poisonous carbon monoxide ($CO$) or soot ($C$).
+
+### 2. Free Radical Substitution (Halogenation)
+This reaction involves the replacement of one or more hydrogen atoms with halogen atoms ($Cl, Br$).
+- **Requirement:** UV light ($h\nu$) or high heat (approx. $250^\circ C - 400^\circ C$).
+- **Mechanism:** It occurs via a **Free Radical Mechanism** (Initiation, Propagation, Termination).
+- **Multiple Substitutions:** The reaction often produces a mixture of products ($CH_3Cl, CH_2Cl_2, CHCl_3, CCl_4$) as the halogenated products can react further.
+- **Selectivity:** Bromination is much more selective than chlorination, preferentially replacing hydrogens on tertiary carbons.
+
+### 3. Dehydrogenation
+Dehydrogenation is the removal of hydrogen atoms from an alkane to form an alkene (unsaturated hydrocarbon).
+- **Requirement:** High temperatures ($500^\circ C +$) and a catalyst (like $Cr_2O_3$ or $Al_2O_3$).
+- **Significance:** This is a vital industrial process for producing raw materials for plastics (e.g., converting ethane to ethylene).
+$$CH_3-CH_3 \xrightarrow{catalyst, \Delta} CH_2=CH_2 + H_2$$
 
 ---
 ### Worked Problem 3.1: Combustion Stoichiometry

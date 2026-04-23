@@ -1,3 +1,9 @@
+> [!info] Prerequisites
+> Before diving into Organic Chemistry, ensure you have a solid understanding of:
+> - [[01 - Atomic Structure and Orbitals|Atomic Structure and Orbitals]]
+> - [[02 - Lewis Structures and Chemical Bonding|Lewis Structures and Chemical Bonding]]
+> - [[03 - VSEPR Theory and Molecular Geometry|VSEPR Theory and Molecular Geometry]]
+
 Organic chemistry is the study of carbon-containing compounds. Carbon's unique position in the periodic table allows it to form the complex molecules necessary for life.
 <hr>
 ## The Nature of Carbon

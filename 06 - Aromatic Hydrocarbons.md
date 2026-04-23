@@ -1,6 +1,6 @@
 Aromatic compounds (**Arenes**) are stable cyclic molecules with delocalized $\pi$-electrons.
 
-## 1. Benzene ($C_6H_6$)
+## 1. [[04 - Alkenes and Alkynes|Benzene]] ($C_6H_6$)
 - **Structure:** Planar hexagon, $sp^2$ hybridized, $120^\circ$ angles.
 - **Resonance:** The 6 $\pi$-electrons are delocalized (circle in the middle), providing extreme stability.
 - **Naming:** 

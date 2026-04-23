@@ -9,6 +9,34 @@ These compounds contain multiple bonds, which are sites of high electron density
 - **Bonding:** Contains a $C\equiv C$ triple bond (one $\sigma$ and two $\pi$ bonds).
 - **Geometry:** Linear ($180^\circ$).
 
+## Naming Alkenes and Alkynes (IUPAC)
+The systematic naming of unsaturated hydrocarbons follows a specific hierarchy of rules that prioritize the multiple bond over alkyl branches.
+
+### 1. Identify the Parent Chain
+- **The Core Rule:** The parent chain MUST be the **longest continuous carbon chain that contains the double or triple bond**, even if a longer chain exists elsewhere in the molecule.
+- **Suffix:** Replace the *-ane* ending of the corresponding alkane with **-ene** (alkenes) or **-yne** (alkynes).
+
+### 2. Number the Parent Chain
+- **Priority:** Number the chain from the end **closest to the multiple bond**, regardless of where the alkyl substituents are.
+- **Location:** The position of the multiple bond is indicated by the number of the **first (lower-numbered) carbon** of the bond. 
+- *Note:* In chains with 4 or more carbons, this number is placed immediately before the parent name (e.g., *1-butene*) or between the parent and suffix (e.g., *but-1-ene*).
+
+### 3. Naming Branched Chains
+- Follow the same rules as [[03 - Alkanes|Alkanes]] for naming and alphabetizing substituents.
+- If the multiple bond is equidistant from both ends, number from the end that gives the **substituents** the lower numbers at the first point of difference.
+
+### 4. Naming Cycloalkenes
+- The double bond is **always** assigned carbons 1 and 2. 
+- Number the ring in the direction (clockwise or counter-clockwise) that gives the **substituents the lowest possible numbers**.
+- *Example:* 3-methylcyclohexene (not 6-methylcyclohexene).
+
+### 5. Geometric Isomerism (Cis-Trans)
+Because $C=C$ double bonds cannot rotate, the spatial arrangement of atoms is fixed. If both carbons of the double bond are attached to two different groups, isomers exist:
+- **Cis-isomer:** The two identical (or higher priority) groups are on the **same side**.
+- **Trans-isomer:** The two groups are on **opposite sides**.
+- *Naming:* The prefix *cis-* or *trans-* is added to the beginning of the name (e.g., *trans-2-butene*).
+
+---
 ## Addition Reactions
 The pi bond is broken, and two new sigma bonds are formed.
 1. **Hydrogenation:** $CH_2=CH_2 + H_2 \xrightarrow{Pt} CH_3-CH_3$

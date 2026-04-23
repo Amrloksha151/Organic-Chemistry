@@ -1,7 +1,5 @@
-# 04 - Alkenes and Alkynes (Unsaturated Hydrocarbons)
-
 These compounds contain multiple bonds, which are sites of high electron density and reactivity.
-
+<hr>
 ## Alkenes ($C_nH_{2n}$)
 - **Bonding:** Contains a $C=C$ double bond (one $\sigma$ and one $\pi$ bond).
 - **Geometry:** Trigonal planar around the double-bonded carbons.

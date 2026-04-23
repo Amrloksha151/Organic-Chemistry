@@ -1,7 +1,5 @@
-# 01 - Basics and Definitions of Organic Chemistry
-
 Organic chemistry is the study of carbon-containing compounds. Carbon's unique position in the periodic table allows it to form the complex molecules necessary for life.
-
+<hr>
 ## The Nature of Carbon
 Carbon has the electron configuration $[He] 2s^2 2p^2$. To achieve a stable octet, it forms four covalent bonds. 
 - **Bonding Capacity:** Carbon can form single, double, or triple bonds with itself and other elements (H, O, N, S, and halogens).

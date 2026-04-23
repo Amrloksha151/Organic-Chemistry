@@ -1,7 +1,5 @@
-# 02 - Naming and Nomenclature
-
 IUPAC (International Union of Pure and Applied Chemistry) nomenclature is the standard "language" for chemistry. It allows chemists to deduce a structure from a name and vice versa.
-
+<hr>
 ## The Three Parts of a Name
 1. **Prefix:** What and where are the substituents (branches)?
 2. **Parent:** How many carbons are in the longest continuous chain?

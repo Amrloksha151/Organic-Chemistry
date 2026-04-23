@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,12 +190,12 @@
   },
   "active": "9881ef0a8a001268",
   "lastOpenFiles": [
-    "01 - Basics and Definitions.md",
     "05 - Isomerism.md",
-    "Alkanes.md",
+    "01 - Basics and Definitions.md",
+    "02 - Naming and Nomenclature.md",
     "04 - Alkenes and Alkynes.md",
     "03 - Alkanes.md",
-    "02 - Naming and Nomenclature.md",
+    "Alkanes.md",
     "Basics and Definitions.md",
     "Alkenes and Alkynes.md",
     "Naming and Nomenclature.md",

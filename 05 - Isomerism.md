@@ -1,7 +1,5 @@
-# 05 - Isomerism
-
 Isomerism occurs when two or more compounds have the same molecular formula but different arrangements of atoms. It is broadly divided into two categories.
-
+<hr>
 ## 1. Structural (Constitutional) Isomerism
 Molecules with the same formula but different **connectivity**.
 - **Chain Isomers:** Different arrangements of the carbon skeleton (e.g., Pentane vs. Isopentane).

@@ -41,6 +41,20 @@ $$CH_4 + Cl_2 \xrightarrow{h\nu} CH_3Cl + HCl$$
 Removal of $H_2$ to form an alkene (requires catalyst and heat).
 $$CH_3CH_3 \rightarrow CH_2=CH_2 + H_2$$
 
-## 4. Cycloalkanes ($C_nH_{2n}$)
+## 4. Petroleum and Cracking
+Alkanes are the primary components of crude oil (petroleum).
+
+### A. Fractional Distillation
+Crude oil is separated into "fractions" based on **boiling point** in a tall tower.
+- **Top:** Smaller, lighter molecules (lower BP, more flammable, e.g., LPG).
+- **Bottom:** Larger, heavier molecules (higher BP, more viscous, e.g., Bitumen).
+
+### B. Cracking
+The process of breaking down long-chain alkanes into smaller, more useful molecules (shorter alkanes + alkenes).
+- **Thermal Cracking:** High temperature and pressure.
+- **Catalytic Cracking:** High temperature and a catalyst (e.g., Zeolite).
+- **Purpose:** To meet the high demand for fuels like gasoline and raw materials like ethene.
+
+## 5. Cycloalkanes ($C_nH_{2n}$)
 - **Naming:** Prefix *cyclo-* (e.g., cyclohexane).
 - **Stability:** Cyclohexane is the most stable due to its **Chair Conformation** (minimizes angle and torsional strain).
